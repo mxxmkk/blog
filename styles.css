@@ -1,0 +1,108 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: auto;
+    padding: 40px 20px;
+    background-color: #378968; /* Primary green */
+    max-width: 720px;
+    min-height: 100vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #000000;
+    line-height: 1.6;
+}
+
+.title {
+
+    text-decoration: none;
+    color: #FFFFFF;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.title h2 {
+    text-decoration: none;
+    color: inherit;
+    font-size: 1.5rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+
+.posts ul {
+    list-style: none;
+    padding: 0;
+}
+
+.posts li {
+    padding-bottom: 5px;
+    /* border-bottom: 1px solid rgba(0, 0, 0, 0.1); */
+    display: flex;
+    align-items: baseline;
+    gap: 15px;
+}
+
+.posts li:last-child {
+    border-bottom: none;
+}
+
+.posts span {
+    color: #214537; /*#2D7F5F; /* Darker green for dates */
+    font-size: 0.9rem;
+    min-width: 120px;
+    flex-shrink: 0;
+}
+
+.posts a {
+    color: #FFFFFF; /* Dark gray for links */
+    /* text-decoration: none; */
+    font-size: 1rem;
+    font-weight: 500;
+    padding: 5px 0;
+    position: relative;
+    transition: color 0.3s ease;
+}
+
+
+
+/* Color palette consistency */
+time {
+    color: inherit; /* Inherits from parent span color */
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+    .posts li {
+        flex-direction: column;
+        gap: 8px;
+    }
+    
+    .posts span {
+        min-width: auto;
+    }
+    
+    body {
+        padding: 20px 15px;
+    }
+    
+    .title h2 {
+        font-size: 2rem;
+    }
+}
+
+
+.content 
+{
+    color: #FFFFFF;
+}
+.post-title
+{
+
+    font-size: 2rem;
+    margin-bottom: 0.5em;
+}

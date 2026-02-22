@@ -7,7 +7,7 @@
 body {
     margin: auto;
     padding: 40px 20px;
-    background-color: #378968; /* Primary green */
+    background-color: rgb(55, 137, 104); /* Primary green */
     max-width: 720px;
     min-height: 100vh;
     font-family: Verdana, Geneva, Tahoma, sans-serif;

@@ -1,0 +1,15 @@
+next: [[]]
+prev: [[o-captain-my-captain]]
+tags: #random #reflection 
+date: 2026-04-24
+# My small steps on the big journey
+
+I turned 18 last month. In the previous years, when I was about to turn 16 and 17 my bday was frightening me, I was scared of possible responsibilities and anticipations that were generally anxiously overthought by me. This year was different. I have changed my perception on time. No, I still have high expectation of myself and I won't settle for mediocracy, I did come closer to realisation that I am not *behind* when not being non-stop productive.
+
+In this age of social media with it's post-boast-swipe type of interactions it is easy to find yourself envying to those "lucky". Well after deleting my instagram account and the app itself from my phone... I found another way to procrastinate and work delaying but at least it is now pure entertainment and not constant reminder of someone's success. I am almost deprived of feeling that way. Yet, I still aim for the stars — no meaningful thing will be achieved without setting the bar high in my opinion.
+
+I will list few things that I started doing and I am proud of:
+* began running outdoors — easily 15k run in under 145 bpm for the whole run
+* reading books again — Demian by by Hermann Hesse in April
+* bought a sketchbook for drawing practice
+Not much, but I dare to say that my way of living day-to-day changed for the better and a started to behave differently in social sort of situations like talking to a stranger or asking for help for example. I am happy with where I am headed and what awaits me. Never lose hope!

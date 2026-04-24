@@ -1,7 +1,7 @@
 next: [[]]
 prev: [[not-everything-is-about-growth]]
 tags: #reflection 
-date: 2025-02-21
+date: 2026-02-21
 
 # O Captain! My Captain!
 I have seen less and less superhero, action, sci-fi or fantasy and more with accent on drama and tragedy of life in the last years. I noticed how much I value honesty and hate on the phoniness of imaginary world that elevate my expectations of reality and people.

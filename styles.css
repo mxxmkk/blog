@@ -3,7 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+#avatar {
+    width: 10dvh;
+    height: auto;
+    margin: 0rem 2rem 0rem 2rem;
+    border-radius: 100%;
+}
 body {
     margin: auto;
     padding: 40px 20px;
@@ -18,11 +23,16 @@ body {
 .title {
     text-decoration: none;
     color: #FFFFFF;
-    display: inline-block;
     margin-bottom: 20px;
+
+    display: flex;
+    align-items: center;       
+    justify-content:left;
+    width: 100%;
 }
 
 .title h2 {
+    margin: 0;
     text-decoration: none;
     color: inherit;
     font-size: 1.5rem;

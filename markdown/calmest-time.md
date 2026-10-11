@@ -1,6 +1,7 @@
 next: [[no-wait-gen]]
+prev: [[mxxmkk]]
 tags: #reflection
 date: 2025-09-17
-# Calmest time 
+# Calmest time
 
 I like it after the sunset and before the sunrise. This is the only time when I am truly alone. In complete silence. When people are slowing down, getting ready to bed, and overall the darker half of the Earth is cooling down. When you try to be as silent as possible so as not to disturb. tick. tock. tick. tock. As if I get some kind of inspiration that you aren’t able to get during the day. When your mind is tired but still functions, and the natural flow of thought is filling the notes, the blank canvas, the empty assignment. I like it after the sunset and before the sunrise.

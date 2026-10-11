@@ -1,4 +1,4 @@
-next: [[]]
+next: [[my-experience-with-ai]]
 prev: [[o-captain-my-captain]]
 tags: #random #reflection 
 date: 2026-04-24

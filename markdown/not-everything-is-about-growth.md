@@ -1,4 +1,4 @@
-next:
+next: [[o-captain-my-captain]]
 prev: [[fahrenheit-451-the-hell-we-walk-towards]]
 tags: #reflection 
 date: 2025-12-18

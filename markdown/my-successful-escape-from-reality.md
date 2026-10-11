@@ -1,4 +1,4 @@
-next: [[]]
+next: [[usage-of-ai-an-opportunity-or-a-threat]]
 prev: [[my-experience-with-ai]]
 tags: #life
 date: 2026-10-02

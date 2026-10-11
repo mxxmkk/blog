@@ -1,4 +1,4 @@
-next: [[]]
+next: [[my-small-steps-on-the-big-journey]]
 prev: [[not-everything-is-about-growth]]
 tags: #reflection 
 date: 2026-02-21

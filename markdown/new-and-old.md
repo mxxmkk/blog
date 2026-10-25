@@ -3,7 +3,7 @@ prev: [[usage-of-ai-an-opportunity-or-a-threat]]
 tags: #reflection 
 date: 2026-10-11
 
-# new and old books
+# new and old
 
 If someone asks me about my favourite author or a book series I will honestly answer "The Chronicles of Amber" by Roger Zelazny or "The Invisible Man" by H. G. Wells. But those novels were recommended to me while I was a kid. Now, I have a bittersweet feeling that I will never find a novel or a story that will truly affect me in the same way. I do have books that are found great in the recent years but I feel that somehow they will never come close to "my classics".
 

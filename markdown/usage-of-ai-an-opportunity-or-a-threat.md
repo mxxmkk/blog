@@ -1,4 +1,4 @@
-next: [[new-and-old-books]]
+next: [[new-and-old]]
 prev: [[my-successful-escape-from-reality]]
 tags: #essay #reflection
 date: 2026-10-10

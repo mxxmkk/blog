@@ -1,4 +1,4 @@
-next: [[My-successful-escape-from-reality]]
+next: [[my-successful-escape-from-reality]]
 prev: [[o-captain-my-captain]]
 tags: #article #life 
 date: 2026-06-24
